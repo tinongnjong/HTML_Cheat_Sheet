@@ -1,0 +1,86 @@
+/* Global Tags*/
+
+body {
+    background-color: antiquewhite;
+    text-align: center;
+  }
+h1 {
+    color: teal;
+  }
+h2 {
+    text-align: center;
+    color: rgb(17, 16, 65);
+    font-family: monospace;
+  }
+table {
+    text-align: left;
+  }
+  /* Class IDS*/
+  
+.tabletags {
+    margin: 2px;
+    background-color: antiquewhite;
+    border: 2px solid gray;
+  }
+.tabletags .col {
+    background-color: bisque;
+    border-radius: 2px;
+    border: 0.5px dashed gray;
+    font-family: monospace;
+  }
+.tableattributes {
+    margin: 2px;
+    background-color: antiquewhite;
+    border: 3px solid gray;
+  }
+.tableattributes, #col1 {
+      background-color: none;
+  }
+.tableattributes .col {
+    background-color: bisque;
+    border-radius: 2px;
+    border: 0.5px dashed gray;
+  }
+.th {
+    background-color: rgb(223, 223, 209);
+    border: 2px;
+  }
+  
+  /* IDS*/
+  
+#center {
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+  }
+  
+  /* Table Columns Tag ID*/
+  
+#col1 {
+    background-color: rgb(235, 205, 215);
+  }
+#col2 {
+    background-color: rgb(225, 195, 205);
+  }
+  
+#col3 {
+    background-color: rgb(215, 185, 190);
+  }
+#col4 {
+    background-color: rgb(205, 175, 185);
+  }
+#col5 {
+    background-color: rgb(195, 165, 175);
+  }
+#col6 {
+    background-color: rgb(180, 155, 165);
+  }
+  
+  /* Table Attributes Column ID*/
+  
+#col7 {
+    background-color: rgb(165, 145, 155);
+  }
+#col8 {
+    background-color: rgb(150, 135, 145);
+  }
